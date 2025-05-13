@@ -1,6 +1,6 @@
 # Neovim Keybinds Documentation
 
-This document provides a simple and organized overview of all the custom keybinds defined in my Neovim configuration.
+Below you will find all the keybinds for the repo and plugins installed. :)
 
 ## General Keybinds
 
@@ -102,4 +102,4 @@ This document provides a simple and organized overview of all the custom keybind
 
 This repo is based off the work off https://github.com/tonybanters' nvim repository.
 
- He also made a really good guide on this repo which ca be found at: https://www.youtube.com/watch?v=46z_h4bNzjk&t=577s Make sure you give him follow.
+ He also made a really good guide on this repo which ca be found at: https://www.youtube.com/watch?v=46z_h4bNzjk&t=577s Make sure you give him follow/star/subscribe.
