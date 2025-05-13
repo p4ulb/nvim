@@ -1,4 +1,4 @@
-# Neovim Keybinds Documentation
+# Neovim Build Documentation
 
 ## How to install Neovim
 
@@ -6,8 +6,7 @@ More than likely for everything to work as intended it is better to go with the 
 
 Directions on how to install can be found at https://neovim.io
 
-
-Below you will find all the keybinds for the repo and plugins installed. :)
+---
 
 ## General Keybinds
 
